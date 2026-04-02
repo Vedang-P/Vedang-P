@@ -30,7 +30,6 @@ Perception and control systems for autonomous ground robots. Deep learning visio
 - 7th / 100 teams - Tech Solstice hackathon. MIT-Bangalore's premier hackathon
 - Top 50 / 400 teams · H7CTF 2025
 - 12th / 120 teams · CryptIT CTF
-- Built **Prompt Arena** for MIST — live storyline-based prompt engineering game, played by 100+ people
   
 ---
 
