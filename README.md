@@ -49,3 +49,8 @@ I'm actively reading and building in:
 
 Open to research collaborations, reading groups, or just a conversation.  
 → vedangpandeyy@gmail.com
+---
+
+<div align="center">
+  <img src="https://giphy.com/gifs/cat-kitty-tired-12cYyFxlbIgXeg" width="200"/>
+</div>
