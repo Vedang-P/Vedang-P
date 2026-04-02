@@ -52,5 +52,6 @@ Open to research collaborations, reading groups, or just a conversation.
 ---
 
 <div align="center">
-  <img src="[https://giphy.com/gifs/cat-kitty-tired-12cYyFxlbIgXeg](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFhaGF2cmhlOHUyc2N2em44aDZka3JjZDMwb256NWRoaXZ6Nmp0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12cYyFxlbIgXeg/giphy.gif)" width="200"/>
+  <img src="https://media3.giphy.com/media/12cYyFxlbIgXeg/giphy.gif" width="200"/>
+</div>" width="200"/>
 </div>
