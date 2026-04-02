@@ -53,5 +53,4 @@ Open to research collaborations, reading groups, or just a conversation.
 
 <div align="center">
   <img src="https://media3.giphy.com/media/12cYyFxlbIgXeg/giphy.gif" width="200"/>
-</div>" width="200"/>
 </div>
