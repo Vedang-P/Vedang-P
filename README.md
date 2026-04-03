@@ -44,7 +44,6 @@ Perception and control systems for autonomous ground robots. Deep learning visio
 
 I'm actively reading and building in:
 - **Diffusion models** — internals, conditioning mechanisms, and controllable generation  
-  _(Diffulizer came out of wanting to actually see what SDXL does at each timestep)_
 - **Machine unlearning** — selective forgetting, influence functions, and privacy in generative models
 
 Open to research collaborations, reading groups, or just a conversation.  
