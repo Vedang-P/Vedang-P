@@ -46,7 +46,7 @@ I'm actively reading and building in:
 - **Diffusion models** — internals, conditioning mechanisms, and controllable generation  
 - **Machine unlearning** — selective forgetting, influence functions, and privacy in generative models
 
-Open to research collaborations, reading groups, or just a conversation.  
+Open to research collaborations.  
 → vedangpandeyy@gmail.com
 ---
 
