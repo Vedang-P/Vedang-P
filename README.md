@@ -8,11 +8,14 @@ if you're working in either space and are open to collaborating, feel free to re
 
 ### Work
 
-**Indian Institute of Technology, Guwahati** · AI Research Intern _(May 2026 - July 2026)_
+**Indian Institute of Technology, Guwahati** · AI Research Intern _(May 2026 - July 2026)_  
+
 ◦ Built a device fingerprinting and DoS detection pipeline over 8M+ real LoRaWAN packets across 8,542 devices and 9 gateways;
 feature engineering on RSSI, SNR, and frame-timing metadata.
+
 ◦ Designing a Temporal Graph Network (TGN) over the device–gateway graph to detect coordinated multi-hop LoRaWAN flooding
 as graph-level anomalies; captures attack patterns that per-packet classifiers miss.
+
 ◦ Built a physics-constrained GAN (WGAN-GP) for realistic synthetic LoRaWAN attack generation; paired with a PPO RL
 red-team agent to adversarially stress-test the detector against unseen and novel attack strategies.
 
