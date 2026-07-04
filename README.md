@@ -36,14 +36,6 @@ red-team agent to adversarially stress-test the detector against unseen and nove
 
 ---
 
-### Achievements
-
-- 7th / 100 teams - Tech Solstice hackathon. MIT-Bangalore's premier hackathon
-- Top 50 / 400 teams · H7CTF 2025
-- 12th / 120 teams · CryptIT CTF
-  
----
-
 ### Stack
 
 `Python` `C++` `ROS2` `PyTorch` `TensorFlow` `LangChain`  
