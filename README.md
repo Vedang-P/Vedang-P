@@ -29,12 +29,6 @@ if you're working in either space and are open to collaborating, feel free to re
 
 ---
 
-### Research Interests
-
-I'm actively reading and building in:
-- **Diffusion models** — internals, conditioning mechanisms, and controllable generation  
-- **Machine unlearning** — selective forgetting, influence functions, and privacy in generative models
-
 Open to research collaborations.  
 → vedangpandeyy@gmail.com
 ---
