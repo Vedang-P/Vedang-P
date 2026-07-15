@@ -24,8 +24,8 @@ if you're working in either space and are open to collaborating, feel free to re
 
 ### Stack
 
-`Python` `C++` `ROS2` `PyTorch` `TensorFlow` `LangChain`  
-`React` `FastAPI` `Docker` `TypeScript` `Go` `Bash`
+`Python` `C++` `PyTorch`
+`React` `FastAPI` `TypeScript`
 
 ---
 
