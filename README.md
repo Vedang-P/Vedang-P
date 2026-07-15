@@ -18,7 +18,6 @@ if you're working in either space and are open to collaborating, feel free to re
 ### Projects
 
 | | |
-|---|---|
 | [`Janus Chess Engine`](https://janus-engine.pages.dev) | Bitboard move gen + iterative deepening alpha-beta. React frontend with live PV arrows, heatmaps, and evaluation breakdowns over WebSockets. |
 | [`Chess RL Endgames`](https://github.com/Vedang-P/Chess-RL-neural) | Q-learning agent for K+Q vs K endgame. Syzygy tablebase integration for optimal move benchmarking. |
 | [`Diffulizer`](https://diffulizer.pages.dev) | SDXL denoising trace visualizer — latents, attention maps, token activations, PCA trajectories per timestep. |
