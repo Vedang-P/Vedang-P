@@ -14,16 +14,13 @@ if you're working in either space and are open to collaborating, feel free to re
 
 
 ---
+## Projects
 
-### Projects
-
-| [`Janus Chess Engine`](https://janus-engine.pages.dev) | Bitboard move gen + iterative deepening alpha-beta. React frontend with live PV arrows, heatmaps, and evaluation breakdowns over WebSockets. |
-| [`Chess RL Endgames`](https://github.com/Vedang-P/Chess-RL-neural) | Q-learning agent for K+Q vs K endgame. Syzygy tablebase integration for optimal move benchmarking. |
-| [`Diffulizer`](https://diffulizer.pages.dev) | SDXL denoising trace visualizer — latents, attention maps, token activations, PCA trajectories per timestep. |
-| [`Paperscout`](https://github.com/Vedang-P/paperscout) | Semantic research paper discovery via vector embeddings across arXiv and Semantic Scholar. |
-| [`Portfolio Win XP`](https://portfolio-win-xp.pages.dev) | Fully static Windows XP desktop in the browser. Boot lifecycle, drag-and-drop windows, 10+ apps. |
-
----
+- **[Janus Chess Engine](https://janus-engine.pages.dev):** Bitboard chess engine with iterative deepening alpha-beta search.
+- **[Chess RL Endgames](https://github.com/Vedang-P/Chess-RL-neural):** Q-learning agent for chess endgames with Syzygy benchmarking.
+- **[Diffulizer](https://diffulizer.pages.dev):** Interactive visualizer for SDXL denoising and latent dynamics.
+- **[Paperscout](https://github.com/Vedang-P/paperscout):** Semantic search engine for research papers using vector embeddings.
+- **[Portfolio Win XP](https://portfolio-win-xp.pages.dev):** Interactive Windows XP desktop recreated in the browser.
 
 ### Stack
 
