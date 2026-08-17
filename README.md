@@ -8,7 +8,7 @@ if you're working in either space and are open to collaborating, feel free to re
 
 **IIT Guwahati** · AI Research Intern *(May 2026 – Jul 2026)*
 
-**R.U.G.V.E.D. Systems** · ML Engineer *(Apr 2025 – Aug 2026)*
+**R.U.G.V.E.D. Systems** · AI Researcher *(Apr 2025 – Aug 2026)*
 
 **Contact**
 
